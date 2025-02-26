@@ -133,7 +133,7 @@ export const App = () => {
             loading={loading}
             block
             view="primary"
-            hint="Стоимость участия 200 ₽"
+            hint="Стоимость участия 400 ₽"
             onClick={submit}
           >
             Участвовать
